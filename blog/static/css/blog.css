@@ -64,7 +64,7 @@ h4 {
 
 .post > .date,
 .post > .actions {
-  float: right;
+  display: block;
 }
 
 .btn-default,
