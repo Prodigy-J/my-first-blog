@@ -33,8 +33,6 @@ h4 {
 
 .date {
   color: #828282;
-  display: block;
-  text-align: left;
 }
 
 .save {
@@ -64,9 +62,8 @@ h4 {
   color: #000;
 }
 
-.post > .date,
 .post > .actions {
-  display: block;
+  float: right;
 }
 
 .btn-default,
